@@ -1,0 +1,6 @@
+# Исключаем папку environment
+env/
+
+# Исключаем файлы __pycache__
+project/__pycache__/
+tests/__pycache__/
